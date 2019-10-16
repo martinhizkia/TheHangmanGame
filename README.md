@@ -6,6 +6,8 @@ Judul Project : The Hangman Game Finale
 Nama          : Martin Hizkia Parasi & Arvalinno                                                                                            
 NPM           : 1806148750           & 1806200160     
 
+*[penjelasan proyek](#PENJELASAN PROYEK)
+
 
 
 ## PENJELASAN PROYEK
