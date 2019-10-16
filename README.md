@@ -6,7 +6,7 @@ Judul Project : The Hangman Game Finale
 Nama          : Martin Hizkia Parasi & Arvalinno                                                                                            
 NPM           : 1806148750           & 1806200160     
 
-<br>
+
 ## PENJELASAN PROYEK
 Game ini dimainkan dengan cara menebak huruf dari kata yang sudah di-random dari file listkata.txt. Game ini terdiri dari 2 mode, yaitu ; mode single player dan multiplayer.
 
