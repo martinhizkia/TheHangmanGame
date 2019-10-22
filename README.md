@@ -28,5 +28,9 @@ Dimainkan oleh dua player,
  
 ## DOKUMENTASI PROJECT
 ### Menu Awal
-![awal](/image/awal.jpg)
+![menu awal](/image/menu.jpg)
+Tampilan di atas merupakan menu awal dari permainan Hangman ini. Pada tampilan ini, terdapat 4 opsi menu yang dapat dipilih oleh player, antara lain: Singleplayer, Multiplayer, Help, dan Exit.
 
+### Tampilan Awal Permainan
+![tampilan awal](/image/awal.jpg)
+Tampilan ini adalah tampilan yang pertama kali dilihat oleh player saat akan memulai permainan hangman.
