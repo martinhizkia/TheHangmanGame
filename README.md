@@ -34,3 +34,15 @@ Tampilan di atas merupakan menu awal dari permainan Hangman ini. Pada tampilan i
 ### Tampilan Awal Permainan
 ![tampilan awal](/image/awal.jpg)
 Tampilan ini adalah tampilan yang pertama kali dilihat oleh player saat akan memulai permainan hangman.
+
+### Tampilan Akhir Permainan
+#### Tampilan ketika player kalah
+![tampilan akhir1](/image/mati.jpg)
+Tampilan ini adalah tampilan ketika player kalah dalam permainan.
+#### Tampilan ketika player menang
+![tampilan akhir2](/image/win1.jpg)
+Tampilan ini adalah tampilan ketika plyer menang dalam permainan.
+
+### Menu Bantuan
+![help](/image/help.jpg)
+Berisi tentang panduan dalam melakukan permainan hangman game ini.
