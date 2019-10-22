@@ -25,4 +25,8 @@ Dimainkan oleh dua player,
  <br>
  
  - Setelah Player 2 selesai menebak, maka Player dengan point lebih tinggi akan memenangkan permainan. Jika point kedua Player sama, maka permainan akan seri.
+ 
+## DOKUMENTASI PROJECT
+### Menu Awal
+![awal](/image/awal.jpg)
 
